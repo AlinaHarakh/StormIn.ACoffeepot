@@ -1,4 +1,3 @@
-
 <h1>STORM IN A COFFEEPOT</h1>
 <br>
 <p>Landing page redesign & code</p>
